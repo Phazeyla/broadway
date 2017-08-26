@@ -1,0 +1,44 @@
+* {text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+h1 {font-size: 70px;
+font-weight: bold;
+color: white;
+}
+
+h3 {font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h4 {font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+p {font-size: 14px;
+  color: black;
+}
+
+.header4 {font-size: 23px;
+font-weight: bold;
+color: white;
+}
+
+span {font-size: 18px;
+color: white;
+
+}
+
+span b {font-size: 11px;
+color: white;
+}
+
+#bottom {text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+a, a:visited {color: white
+}
