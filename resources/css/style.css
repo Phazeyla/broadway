@@ -14,7 +14,7 @@ h3 {font-size: 32px;
 
 h4 {font-size: 23px;
   font-weight: bold;
-  color: black;
+
 }
 
 p {font-size: 14px;
@@ -24,6 +24,8 @@ p {font-size: 14px;
 .header4 {font-size: 23px;
 font-weight: bold;
 color: white;
+background-image: url("../images/flatiron.png");
+display: block;
 }
 
 span {font-size: 18px;
@@ -41,4 +43,9 @@ color: white;
 }
 
 a, a:visited {color: white
+}
+
+.headerimg {background-image: url("../images/flatiron.png");
+display: block;
+background-repeat: no-repeat;
 }
